@@ -8,4 +8,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can kickflip a skateboard.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
 ![Eric Yung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericyung1&show_icons=true&theme=radical)
