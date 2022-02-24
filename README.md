@@ -7,3 +7,5 @@
 - 📫 How to reach me: Email: eyung@wustl.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can kickflip a skateboard.
+
+![Eric Yung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericyung1&show_icons=true&theme=radical)
