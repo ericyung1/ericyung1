@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi, I'm Eric Yung! 👋 </h1>
 - 🔭 I’m currently working on a chess engine suited to my play-style.
-- 🌱 I’m currently learning C++, Swift, and cloud computing.
+- 🌱 I’m currently learning C++ and working towards my AWS cloud computing certification
 - 👯 I’m looking to collaborate with others in hackathons.
-- 🚩 2022 Goals: Contribute to more open source contributions.
+- 🚩 2022 Goals: Contribute to more open source projects.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can kickflip a skateboard.
 
