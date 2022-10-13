@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm Eric Yung! 👋 </h1>
-- 🔭 I’m currently working on a chess engine suited to my play-style.
-- 🌱 I’m currently learning C++ and working towards my AWS cloud computing certification
+- 🔭 I’m currently working on a chess engine that imitates my play-style
+- 🌱 I’m currently learning SML, Ruby, and Racket
 - 👯 I’m looking to collaborate with others in hackathons.
 - 🚩 2022 Goals: Contribute to more open source projects.
 - 😄 Pronouns: he/him/his
@@ -15,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ericyung1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ericyung1&icon=0&color=10)](https://visitcount.itsvg.in)
