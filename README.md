@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi, I'm Eric Yung! 👋 </h1>
-- 🔭 I’m currently working on a chess engine that imitates my play-style
+- 🔭 I’m currently working on a mock class schedule generator for WashUBuddy
 - 🌱 I’m currently learning SML, Ruby, and Racket
 - 👯 I’m looking to collaborate with others in hackathons.
-- 🚩 2022 Goals: Contribute to more open source projects.
+- 🚩 2025 Goals: Contribute to more open source projects.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can kickflip a skateboard.
 
